@@ -1,0 +1,16 @@
+2015-11-26
+    identity:
+
+    work rules:
+	1. meeting: scrum. every two day, share information, update progress, writing memo of this meeting.
+	2. learning: group study.
+	3. hands-off: complete your document.
+	4. handle issue: build a SOP. Patch needs records.
+	
+	5. developing:
+	    a. analyze
+	    b. survey
+	    c. design: a document of the entire structure.
+	    d. develope: a document of the developing detail.
+	    e. review: check-in code piece by piece without side effect.
+	    f. testing: unit test, a prototype of test case, autotest.
